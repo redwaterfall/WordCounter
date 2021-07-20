@@ -1,5 +1,5 @@
 {
-  "name": "wordcounter",
+  "name": "WordCounter",
   "version": "1.0.0",
   "description": "website that counts words",
   "main": "index.js",
